@@ -1,3 +1,5 @@
+# Just testing gym framework
+
 ## $\lambda_{\text{status quo}} = 0.1, \lambda_{\text{novelty}} = 0.5$
 
 <video src="https://github.com/m4xig1/CartPole_test/blob/main/videos_0.1_0.5/test-video-episode-450.mp4" width="320" height="240" controls></video>
